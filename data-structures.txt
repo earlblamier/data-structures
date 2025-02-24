@@ -1,0 +1,30 @@
+1. Array
+A fixed-size collection of elements stored in contiguous memory locations.
+Example: [1, 2, 3, 4, 5]
+Use Cases: Searching, sorting, and storing data in a fixed-size structure.
+2. Linked List
+A sequence of nodes where each node contains data and a reference (pointer) to the next node.
+Types: Singly Linked List, Doubly Linked List, Circular Linked List.
+Use Cases: Implementing stacks, queues, and dynamic memory allocation.
+3. Stack (LIFO - Last In, First Out)
+A linear data structure where the last inserted element is the first to be removed.
+Operations: push(), pop(), peek().
+Use Cases: Undo/Redo operations, expression evaluation, function calls (recursion).
+4. Queue (FIFO - First In, First Out)
+Elements are added at the rear and removed from the front.
+Types: Simple Queue, Circular Queue, Priority Queue, Deque (Double-ended Queue).
+Use Cases: Scheduling tasks, print spooling, breadth-first search (BFS).
+5. Hash Table / Hash Map
+Stores key-value pairs with efficient lookup, insertion, and deletion using a hash function.
+Use Cases: Implementing dictionaries, caching, and database indexing.
+6. Heap (Priority Queue)
+A specialized tree-based data structure used for fast retrieval of the maximum or minimum element.
+Types: Min Heap, Max Heap.
+Use Cases: Dijkstra’s algorithm, priority scheduling, memory management.
+7. Graph
+A collection of nodes (vertices) and edges that connect them.
+Types: Directed, Undirected, Weighted, Unweighted, Cyclic, Acyclic.
+Use Cases: Social networks, shortest path algorithms, dependency resolution.
+8. Trie (Prefix Tree)
+A tree-like structure used for fast retrieval of strings with common prefixes.
+Use Cases: Autocomplete, dictionary word searches, IP routing.
